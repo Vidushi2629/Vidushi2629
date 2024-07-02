@@ -27,10 +27,8 @@ I'm currently studying at Vellore Institute of Technology (VIT), pursuing a degr
 
 ### Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vidushi-agnihotri-a08b932ab/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/your-github-username)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Vidushi2629)
 
 ---
 
-Feel free to reach out if you'd like to collaborate on a project or just have a chat!
 
-![Footer](https://user-images.githubusercontent.com/67447840/213911754-e0f1f570-7c40-466f-a452-c8f73b3d2b43.png)
